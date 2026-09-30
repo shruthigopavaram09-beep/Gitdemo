@@ -1,0 +1,7 @@
+subjects:
+DM
+JAVA
+DBMS
+COA
+SE
+IE
