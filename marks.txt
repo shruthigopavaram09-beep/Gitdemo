@@ -1,6 +1,6 @@
 marks:
 DM - A+
-JAVA - A+
+JAVA - O
 DBMS - A+
 COA - A+
 IE - O
