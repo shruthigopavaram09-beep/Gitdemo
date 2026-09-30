@@ -1,0 +1,8 @@
+marks:
+DM - A+
+JAVA - A+
+DBMS - A+
+COA - A+
+IE - O
+SE - O
+
